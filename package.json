@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/khattari540750/gnss-maps/issues"
   },
-  "homepage": "https://github.com/khattari540750/gnss-maps#readme"
+  "homepage": "https://github.com/khattari540750/gnss-maps#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
 }
