@@ -1,0 +1,19 @@
+{
+  "name": "khattari540750-gnss-maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khattari540750/gnss-maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khattari540750/gnss-maps/issues"
+  },
+  "homepage": "https://github.com/khattari540750/gnss-maps#readme"
+}
